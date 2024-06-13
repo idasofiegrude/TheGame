@@ -1,0 +1,14 @@
+C:\Etuity\learningSesh\learningSesh\bin\Debug\net8.0\learningSesh.exe
+C:\Etuity\learningSesh\learningSesh\bin\Debug\net8.0\learningSesh.deps.json
+C:\Etuity\learningSesh\learningSesh\bin\Debug\net8.0\learningSesh.runtimeconfig.json
+C:\Etuity\learningSesh\learningSesh\bin\Debug\net8.0\learningSesh.dll
+C:\Etuity\learningSesh\learningSesh\bin\Debug\net8.0\learningSesh.pdb
+C:\Etuity\learningSesh\learningSesh\obj\Debug\net8.0\learningSesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Etuity\learningSesh\learningSesh\obj\Debug\net8.0\learningSesh.AssemblyInfoInputs.cache
+C:\Etuity\learningSesh\learningSesh\obj\Debug\net8.0\learningSesh.AssemblyInfo.cs
+C:\Etuity\learningSesh\learningSesh\obj\Debug\net8.0\learningSesh.csproj.CoreCompileInputs.cache
+C:\Etuity\learningSesh\learningSesh\obj\Debug\net8.0\learningSesh.dll
+C:\Etuity\learningSesh\learningSesh\obj\Debug\net8.0\refint\learningSesh.dll
+C:\Etuity\learningSesh\learningSesh\obj\Debug\net8.0\learningSesh.pdb
+C:\Etuity\learningSesh\learningSesh\obj\Debug\net8.0\learningSesh.genruntimeconfig.cache
+C:\Etuity\learningSesh\learningSesh\obj\Debug\net8.0\ref\learningSesh.dll
