@@ -1,4 +1,7 @@
-﻿const int gridSize = 10;
+﻿
+//First C# game
+
+const int gridSize = 10;
 var grid = new char[gridSize, gridSize];
 var playerX = 1;
 var playerY = 1;
