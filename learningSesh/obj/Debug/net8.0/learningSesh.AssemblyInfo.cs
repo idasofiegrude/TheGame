@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("learningSesh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bac1895684a22c4515d5252441b3dae7b4a017bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb73be2a487d7d8c7decd0c65f858dd7f4393073")]
 [assembly: System.Reflection.AssemblyProductAttribute("learningSesh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("learningSesh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
